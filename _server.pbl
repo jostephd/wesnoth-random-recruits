@@ -1,5 +1,8 @@
 author="josteph"
-description="Whenever you recruit a unit, you'll get a random unit from your recruit list instead of the one you chose."
+description="Whenever you recruit a unit, you'll get a random unit from your recruit list instead of the one you chose.
+
+GitHub: https://github.com/jostephd/wesnoth-random-recruits/
+"
 email="josteph@fastmail.com"
 # TODO better icon?
 icon="units/dwarves/guard.png~O(0.6)~BLIT(units/dwarves/thunderer/thunderer.png)"
