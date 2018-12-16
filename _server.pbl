@@ -1,0 +1,13 @@
+author="josteph"
+description="Whenever you recruit a unit, you'll get a random unit from your recruit list instead of the one you chose."
+email="josteph@fastmail.com"
+# TODO better icon?
+icon="units/dwarves/guard.png~O(0.6)~BLIT(units/dwarves/thunderer/thunderer.png)"
+passphrase=""
+tags="jostephd"
+title="Random Recruits"
+type="mod_mp"
+version="0.0.1"
+#[feedback]
+#        topic_id=
+#[/feedback]
