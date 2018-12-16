@@ -1,6 +1,8 @@
 author="josteph"
 description="Whenever you recruit a unit, you'll get a random unit from your recruit list instead of the one you chose.
 
+Supports any era, mainline or not, but combines particularly well with ""Default Union"" and/or ""Ageless Union"", both part of Ageless Era.
+
 GitHub: https://github.com/jostephd/wesnoth-random-recruits/
 "
 email="josteph@fastmail.com"
